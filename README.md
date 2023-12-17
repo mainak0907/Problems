@@ -19,14 +19,11 @@ DSA Concepts and Problem Solving from various platforms
 <li> Two Sum using HashMap -- TC-> O(n)</li>
 <li> ThreeSum using Hashset -- TC -> O(n^2) * log M</li>
 <li> FourSum using Hashset { Similar to Threesum hashing , where the 3rd pointer is stored in set } --  TC -> O(n^3) * log M</li>
-<li></li>
-<li></li>
 </ul>
 
 ## Two Pointers
 <ul>
 <li>Threesum using Two Pointer Approach -- TC -> O(nlogn)+O(n^2) [ Visit again - Optimal Approach ]</li>
-![Alt text](image-1.png)
+<img src="image-1.png">
 <li> FourSum using Two Pointer Approach -- TC -> O(n^3)</li>
-<li></li>
 </ul>
