@@ -19,6 +19,7 @@ DSA Concepts and Problem Solving from various platforms
 <li> Two Sum using HashMap -- TC-> O(n)</li>
 <li> ThreeSum using Hashset -- TC -> O(n^2) * log M</li>
 <li> FourSum using Hashset { Similar to Threesum hashing , where the 3rd pointer is stored in set } --  TC -> O(n^3) * log M</li>
+<li> Longest Consequetive Sequence { using unordered set } { TC -> O(3N)}</li>
 </ul>
 
 ## Two Pointers
