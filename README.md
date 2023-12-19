@@ -28,5 +28,5 @@ DSA Concepts and Problem Solving from various platforms
 <img src="image-1.png">
 <li> FourSum using Two Pointer Approach -- TC -> O(n^3)</li>
 <li> Tapping Rainwater Problem -- TC -> O(n)<li>
-![Alt text](image-2.png)
+<image src="image-2.png">
 </ul>
