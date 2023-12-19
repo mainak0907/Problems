@@ -27,4 +27,6 @@ DSA Concepts and Problem Solving from various platforms
 <li>Threesum using Two Pointer Approach -- TC -> O(nlogn)+O(n^2) [ Visit again - Optimal Approach ]</li>
 <img src="image-1.png">
 <li> FourSum using Two Pointer Approach -- TC -> O(n^3)</li>
+<li> Tapping Rainwater Problem -- TC -> O(n)<li>
+![Alt text](image-2.png)
 </ul>
