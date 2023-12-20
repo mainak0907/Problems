@@ -20,6 +20,8 @@ DSA Concepts and Problem Solving from various platforms
 <li> ThreeSum using Hashset -- TC -> O(n^2) * log M</li>
 <li> FourSum using Hashset { Similar to Threesum hashing , where the 3rd pointer is stored in set } --  TC -> O(n^3) * log M</li>
 <li> Longest Consequetive Sequence { using unordered set } { TC -> O(3N)}</li>
+<li> Largest Subarray with Zero Sum { TC --> O(NlogN)}
+![Alt text](image-3.png)
 </ul>
 
 ## Two Pointers
@@ -30,3 +32,6 @@ DSA Concepts and Problem Solving from various platforms
 <li> Tapping Rainwater Problem -- TC -> O(n)<li>
 <image src="image-2.png">
 </ul>
+
+## Arrays Algorithmic Questions 
+<li>Maximum Sub Array Sum and print the Max subarray  - Kadanes Algo -- TC -> O(n)</li>
