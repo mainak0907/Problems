@@ -31,6 +31,7 @@ DSA Concepts and Problem Solving from various platforms
 <li> FourSum using Two Pointer Approach -- TC -> O(n^3)</li>
 <li> Tapping Rainwater Problem -- TC -> O(n)<li>
 <image src="image-2.png">
+<li> Remove Duplicates from Sorted Array </li>
 </ul>
 
 ## Arrays Algorithmic Questions 
