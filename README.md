@@ -32,6 +32,7 @@ DSA Concepts and Problem Solving from various platforms
 <li> Tapping Rainwater Problem -- TC -> O(n)<li>
 <image src="image-2.png">
 <li> Remove Duplicates from Sorted Array </li>
+![Alt text](image-4.png)
 </ul>
 
 ## Arrays Algorithmic Questions 
