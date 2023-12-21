@@ -21,7 +21,7 @@ DSA Concepts and Problem Solving from various platforms
 <li> FourSum using Hashset { Similar to Threesum hashing , where the 3rd pointer is stored in set } --  TC -> O(n^3) * log M</li>
 <li> Longest Consequetive Sequence { using unordered set } { TC -> O(3N)}</li>
 <li> Largest Subarray with Zero Sum { TC --> O(NlogN)}
-![Alt text](image-3.png)
+<img src="image-3.png">
 </ul>
 
 ## Two Pointers
