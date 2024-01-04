@@ -1,6 +1,11 @@
 # Problems
 DSA Concepts and Problem Solving from various platforms 
 
+## LinkedList
+<ul> 
+<li> Basics of SLL -> Traversal, Conversion , Finding a element </li>
+</ul>
+
 ## Recursion 
 <ul>
 <li> Reverse an array with single pointer</li>
@@ -24,6 +29,8 @@ DSA Concepts and Problem Solving from various platforms
 <img src="image-3.png">
 </ul>
 
+<br>
+
 ## Two Pointers
 <ul>
 <li>Threesum using Two Pointer Approach -- TC -> O(nlogn)+O(n^2) [ Visit again - Optimal Approach ]</li>
@@ -34,6 +41,8 @@ DSA Concepts and Problem Solving from various platforms
 <li> Remove Duplicates from Sorted Array </li>
 ![Alt text](image-4.png)
 </ul>
+
+<br>
 
 ## Arrays Algorithmic Questions 
 <li>Maximum Sub Array Sum and print the Max subarray  - Kadanes Algo -- TC -> O(n)</li>
