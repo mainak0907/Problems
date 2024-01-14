@@ -4,6 +4,7 @@ DSA Concepts and Problem Solving from various platforms
 ## LinkedList
 <ul> 
 <li> Basics of SLL -> Traversal, Conversion , Finding a element </li>
+<li> SLL -> Deletion , Insertion [ all edge cases ] </li>
 </ul>
 
 ## Recursion 
